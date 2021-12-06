@@ -9,7 +9,7 @@ import data from "./data";
 //Import Library
 import Library from "./components/Library";
 //Import Nav
-import Nav from "./components/";
+import Nav from "./components/Nav";
 
 function App() {
   //UseRef
